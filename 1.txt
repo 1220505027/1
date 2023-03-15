@@ -1,0 +1,13 @@
+Algoritmayı neden analiz ederiz?
+
+Yürütme zamanı ve alan karmaşıklığı konusunda en iyi verimi alabilmek için algoritmayı analiz ederiz. Böylece yapılan uygulamanın karmaşıklığını azaltıp daha kullanılabilir olması sağlarız.
+
+
+
+
+
+
+Algoritmayı nasıl analiz ederiz?
+
+Yürütme zamanı T(n) ile ifade edilir. Eğer algoritmadaki eleman sayısı fazla olursa yürütme zamanı da o kadar fazla olur. Zaman karmaşıklığını azaltmak için eleman sayısı olabildiğince az olmalıdır. Algoritmanın eleman sayısının fazla olması aynı zamanda belleğin fazla kullanılmasına ve dolayısıyla alan karmaşıklığına sebep olur. Algoritmayı bu yönleriyle analiz etmek daha verimli sonuç alabilmemizi sağlar.
+
